@@ -1,5 +1,13 @@
-About me
-===
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+
+---
 
 I received Ph.D. degree in pattern recognition and intelligent system from University of Chinese Academy of Sciences (UCAS) in Jan 2019. 
 During my doctoral study, I worked at the National Laboratory of Pattern Recognition (NLPR), Institute of Automation (CASIA).
