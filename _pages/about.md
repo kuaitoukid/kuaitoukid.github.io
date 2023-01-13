@@ -39,6 +39,9 @@ Awards
 - Outstanding Contributor of Tencent, 2020
 - Outstanding Contributor of Tencent, 2019
 - National Scholarship, 2018
+- First place of Text Localisation in [DOST](https://ieeexplore.ieee.org/document/8270167), 2017
+- First place of End-to-end Recognition Task in [RCTW](https://ieeexplore.ieee.org/document/8270164), 2017
+- Second place of Text Localization Task in [RCTW](https://ieeexplore.ieee.org/document/8270164), 2017
 - Meritorious Winner of Mathematical Contest In Modeling, 2012
 - First prize of Beijing Undergraduate Mathematical Competition, 2010
 
